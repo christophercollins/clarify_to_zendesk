@@ -5,6 +5,8 @@ The purpose of this script is to convert the contents of a Clarify document to m
 
 The script creates all uploaded KB articles as drafts. You will need to manually set to publish.
 
+This script also uses the requests and markdown python libraries so you will need to install those as well.
+
 ## Prepare the script
 
 There are a few global variables you will need to edit in the script:
